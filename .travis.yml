@@ -1,9 +1,10 @@
 language: ruby
 os: linux
-dist: trusty
+dist: xenial
+jdk: openjdk8
 rvm:
 - 2.7.0
-install: gem install jekyll -v 3.8.0 && gem install jekyll-redirect-from && gem install
+install: gem install jekyll -v 4.1.0 && gem install jekyll-redirect-from && gem install
   s3_website
 script: jekyll build
 after_success:
@@ -15,5 +16,4 @@ branches:
   - main
 notifications:
   slack:
-    rooms:
-      secure: A/GswZ0f8kJ+2yMoWN3yjVYeQkox9Q7Sji34t53tgR6Fq4uMVJIMVCBk/U4SDV1bSAf1/zJlqeOtUd5R9m8Ge+HHOY/lo7tYIeyoFkgU85bPgJk3oRr1DCqRTlE6bkwpTIPzaf2p+TN8Im8DQsnBLx87DwCLZ5HTIL+jXY0wb9eCut2s8AWQ4eAfhLi4BkJRcRqGVAJQWB/rh7GVrbVNh7cyL7oqpvDSQ0mh4M8D5hIwCBTrTvKd2ecUlJd/GslSQ0du6iWiWBk3Ss4q1Z6OdexX35tut4tWlMcOCnQMy8sGhE0kC4PS1F/AvYEa1JtNHybthyPq/qhvR/QBXRCpJZ1OkomPuP0rt2PxIdaAuS0pjty4z1cZYXObxaVrslOKX0Qiyqjc5SvZsyx39RZ9AkqqznKlti3q5DUtln0NvLxHFcMsBuhPsD8hbKLlU3/IAv5yZB/l17pcheK4pYEavsMQmkIvmqaiMIFMcyYmwNG3d10sxxHAiHFRZGbIEWukeEHSALY8o15Mc8e8hR4+ETQQfn/WAW8/uXGhAtW14Fs7/E0ddhOhIBUSKT2pFIZrO8U582jXgyUNMX1wU4pcXNt8BKAl/+rrY+s8+R6y1rYhSz0fIowV+XUMZPQG4c8iuWDHp8tlW6gA138LzlDmkMmWZJMQLgRPcsmk+20PPBc=
+    secure: RNTpIG9eMB8uQdN49SZvz2R7T0TUNly1/Uh/0yl/R+IERXbgZJdEnlZUIKGcS4Z7i3axWlicJuKHgwZGSyyIEs9ACkRjoCMImZf0FBgdN40lLoUcY77VkbMoa98wObOr7Kh2M397lhFT+eZ/5Qjy85Bv5hX04DVdwC43Cy23lRCzCnPkxjtX/pW4JRSrJ1deRKXGiG5xTkrKxOA5d6YP/A0/LTRr3EWIkQrQ+Y9znTCfNR7aGZY3OcfXes3MbQxxcP/9mQymccqnSzhHCmR8Ksi+DyO/c6TeNU/AicSrwoZPzr+YFii5qgUCRVTfJ5UBTQL9WapC6tNvkORM5Okj98Qc8bs2YgNgU4oEkLW6xR+TDV78Hs1a7MGaxkDYV7aWW/nALyKSBiw1dQsQOgXkt4GYhMQuS3Rtxu7uFJNfhOomGlOvSFukbc2WP8enqb+1ymD2Peas6eHqtyk/Kw999+GF/UADUG96YVuPI0d4BrJdW7OhHcD9WKT7W73mK1XLIoF5/cKidsUFAsjGU35cix3g9pITmGl8/ArMJa6W0HZwh0b2E2H8EfKbJqIf5vNtWEBS+Q7cGkpTysXT7SZTl0v5/TOlr4vhJ+bWCOHu3brrYEn/YxoPUbLyL5XleQS5HdFEKoCuikeP7gZCcmWNduYufFpg9XBaE9Zg9ZTc9os=

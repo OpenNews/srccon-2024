@@ -5,15 +5,17 @@ permalink: /
 
 ### When & where
 
-**DATE, at VENUE in CITY**
+**August 15-16, in Minneapolis**
+
+Our call for participation will open in late March—[stay in touch](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)!
 
 ### About {{ page.event_name }}
 
 The SRCCON program is focused on the practical challenges that news technology and data teams encounter every day. At SRCCON, you’ll:
 
-* be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself —not panels where you sit back and listen, but sessions where you participate and learn.
-* connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.
-* bring who you are into a conference that thinks about the program, the schedule—even games & meals—as ways to celebrate everything you have to share.
+* Be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself —not panels where you sit back and listen, but sessions where you participate and learn.
+* Connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.
+* Bring who you are into a conference that thinks about the program, the schedule—even games & meals—as ways to celebrate everything you have to share.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
