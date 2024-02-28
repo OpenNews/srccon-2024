@@ -32,9 +32,9 @@ defaults:
       # layout: set this value to layout_with_header_image for pages with images at top
       layout: simple_layout
       # cta_button_text: give this a value to enable the orange "call to action" button
-      cta_button_text: Support our work!
+      cta_button_text: Sponsor SRCCON!
       # cta_button_link: set this value to a URL for the orange button (ticket form, etc)
-      cta_button_link: https://opennews.org/donate
+      cta_button_link: /sponsors/
   - scope:
       path: ""
       type: "transcripts"

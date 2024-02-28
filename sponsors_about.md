@@ -1,83 +1,73 @@
 ---
 section: sponsors
-permalink: /sponsors/about/
+permalink: /sponsors/
 title: Become a sponsor
 ---
 
-# Become a SRCCON Sponsor
+# Why sponsor SRCCON now
 
-_"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_ 
-
-_"This was the first conference I've been a part of where I felt I belonged on every level."_ 
+For journalism-technologists and newsroom leaders, SRCCON is a place to “recharge, reset, and reimagine.” You can help make that happen.
 
 SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory and extraordinarily inclusive. We're grateful for the support of sponsors in helping make this event possible.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; margin-bottom: 50px; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+As one attendee put it, SRCCON​ “made me more confident about my media, my future, made me realize I was not alone in my view of journalism, it gave me hope for a journalism that truly represents me!”
 
+## Ways to sponsor SRCCON and help make it possible
 
-## Ways to sponsor SRCCON and help make events happen
+We're seeking sponsors for SRCCON 2024, which will host 300 participants in Minneapolis on August 15-16. If you're interested, [please reach out](mailto:ryan@opennews.org)!
 
-We're seeking sponsors for SRCCON events, which host hundreds of participants from news and technology organizations of all sizes. Available sponsorships include:
+Available sponsorships include:
 
-### 🤝 Partnership sponsors
-Support all aspects of the conference planning and program. Partnership sponsors have maximum visibility — your support makes SRCCON possible.
+### 👏 PARTNERSHIP SPONSORS
 
-### 👉 Accessibility sponsors
-You're directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program — because you are literally helping us make SRCCON available to as many people as possible.
+Support all aspects of the conference planning and program. Partnership sponsors have maximum visibility—your support makes SRCCON possible.
 
-### 🙌 Break sponsors
-Create spaces for attendees to connect in virtual hallways and hangout spaces. We know that these spaces have created lifelong connections between participants, and extremely meaningful.
+### 👉 ACCESSIBILITY SPONSORS
 
-### 👌 Event sponsors 
-Help us with all the finishing touches on the event. Show your support by helping us put on what our participants frequently say is "the best conference I've ever been to."
+You’re directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program—because you are helping us make SRCCON available to as many people as possible.
 
-Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Erika Owens](mailto:erika@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
+### 🙌 MEAL AND BREAK SPONSORS
+
+Help keep attendees nourished throughout the event, and create spaces for attendees over food and drink. We know that these spaces have created lifelong connections between participants, and are extremely meaningful.
+
+### 👌 EVENT SPONSORS
+
+Help us with all the finishing touches on the event. Show your support by helping us put on what our participants frequently say is “the best conference I’ve ever been to.”
+
+Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Ryan Pitts](mailto:ryan@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
 
 ## What is SRCCON?
 
 OpenNews has been hosting SRCCON annually since 2014, and added a series of smaller, topical conferences starting in 2017. At SRCCON events, participants come first so they can focus on collaborating on the work at hand. Over this time SRCCON has:
 
-- welcomed more than 1,500 participants, with a healthy mix of new and returning attendees each time.
-- hosted 319 interactive, collaborative sessions on topics ranging from archiving and algorithms to management and self-care.
-- provided scholarship support to help 228 participants and facilitators attend these events.
-- operated with inclusion and accessibility as core design features, providing live transcription, childcare, tasty food and drink for all dietary needs, and a schedule with space to refresh and connect.
-- created a code of conduct and incident response plan that supports attendees and has influenced the journalism community, including ONA and IRE conferences.
-- led to countless job connections, innovative project ideas and collaborations, and new organizational policies on hiring, inclusion, mentorship, workflow, development processes, and more.
+* Welcomed more than 3,000 participants, with a healthy mix of new and returning attendees each time.
+* Hosted more than 700 interactive, collaborative sessions on topics ranging from archiving and algorithms to management and self-care.
+* Provided scholarship support to help hundreds of participants and facilitators attend these events.
+* Operated with inclusion and accessibility as core design features, providing live transcription, childcare, tasty food and drink for all dietary needs, and a schedule with space to refresh and connect. This year, we're planning to offer digital accessibility across international timezones, and intentional programming for how attendees can digitally connect based on their needs.
+* Created a code of conduct and incident response plan that supports attendees and has influenced the journalism community, including ONA and IRE conferences.
+* Led to countless job connections, innovative project ideas and collaborations, and new organizational policies on hiring, inclusion, mentorship, workflow, development processes, and more.
 
 ## Who attends and why
 
-People come first at SRCCON. Each event is set up to allow participants to focus on getting to know each other and learn from the wisdom in the room. About a third of participants also facilitate sessions, leading conversations and skillshares that help people bring new ideas and experience back to their newsrooms. 
+People come first at SRCCON. Each event is set up to allow participants to focus on getting to know each other and learn from the wisdom in the room. About a third of participants also facilitate sessions, leading conversations and skillshares that help people bring new ideas and experience back to their newsrooms.
 
-{% comment %}
-### The SRCCON 2018 audience included:
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-- 304 attendees from New York and DC, Minneapolis, Chicago, San Francisco, Los Angeles, Louisville, Boston, Philadelphia, Austin, Knoxville, Spokane, Durham, Iowa Falls, and numerous other cities throughout the U.S. and beyond.
-- participants from a range of editorial and/or technical roles. About 25% of participants are in a senior, editor, or other leadership role. About 20% are in a developer or engineer role. Other roles represent about 10% of attendees each, including data, design, product, and reporting.
-- about half of attendees identify as women and about a quarter identify as people of color.
-- companies represented include news organizations, journalism-serving organizations, tech companies in and near journalism, academia, and more. These organizations reflect the range of companies involved in journalism, from giant coastal papers and digital operations to nonprofit outlets, local papers that are part of national chains, privately held orgs, and related tech companies and startups.
 
-### SRCCON 2018 participants attended because:
+## The typical SRCCON audience and program
 
-- they wanted to discuss challenges facing their teams every day. The [entire SRCCON schedule](https://2018.srccon.org/schedule) was built from session pitches from attendees, including topics like: technical communication, collaboration, engagement, algorithms, news nerd career paths, security, accessibility, supporting journalists of color, data viz, management, and more.
-- they wanted to (and reported being able to!) build stronger network connections, to find new strategies to take back to their newsroom, and to learn more about new tools and tactics to improve their journalism.
-{% endcomment %}
+* Over half of attendees identify as women and a third as people of color.
+* About a third of participants are in leadership roles.
+* About a third are developers or engineers.
+* Other roles include data journalists, designers, product managers, and reporters.
+* The diversity of attendees also includes the size and nature of the organizations that attendees represent, including staff from large and small companies that are, or work with, news organizations—including attendees from tech companies, universities and colleges and more.
+* Sessions dig into best practices for all kinds of teams and techniques important to journalism, including community-first elections coverage, sustaining diversity efforts, working on data with editors without a data background, roadmapping and ethics for AI projects, supporting colleagues through grief, developing skills as a manager, and more.
+* A schedule designed around our facilitated session format enables attendees to engage deeply in a purposeful way.
 
-_“My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I've been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”_
+“You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you’ve done.”
 
-## Why sponsor SRCCON
+“This was the first conference I’ve been a part of where I felt I belonged on every level.”
 
-For journalism-technologists, newsroom leaders (both formal and informal), and others seeking to change journalism for the better, SRCCON is where they can sit down away from the deadlines and the day-to-day and learn from each other. We want you to help make that happen.
+“My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I’ve been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”
 
-{% comment %}
-### About the 2018 program:
-
-- sessions included a [kickoff kit for new teams starting off](https://www.dropbox.com/s/i8nvfri3zh5jk8b/Kickoff%20Kit%20Packet.pdf?dl=0), [a discussion of rebuilding ad tech](https://docs.google.com/presentation/d/1_6Kp6eMFEvB9nPHtzyJxOdiJPMxYn1KEFdyCWYBpK6o/edit#slide=id.gc6fa3c898_0_0), [a product design exercise for membership programs](https://building.theatlantic.com/designing-a-membership-program-in-75-minutes-with-help-from-a-few-d20s-8b78bfc890f7), and a [wide range of additional sessions](https://2018.srccon.org/schedule) with [tons of transcripts, notes, and resources documented](https://2018.srccon.org/documentation/).
-- designed around our facilitated session format that enables attendees to [engage deeply in a purposeful way](https://source.opennews.org/articles/srccon-great-conference-sessions/).
-- with a Thursday evening program of hobby talks, games, dinner, and a [walking tour](https://2018.srccon.org/schedule/#_session-thursday-evening-1-walking-tour) that a third of participants went on (including one kiddo in a stroller), after an emotionally intense day.
-{% endcomment %}
-
-Sponsors help us make this event unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON. As one attendee put it, “The structure of the program and the attention to detail and people's needs is what makes this an exceptional and special event.” Sponsors are what make the detail, intentional design, and accessibility all possible.
-
-_“SRCCON is the best conference I go to all year. It's so thoughtful and well planned. I feel happy, safe, and informed.”_ (all quotations from SRCCON attendees in post-event surveys)
-
-**Interested in having your company or organization become a sponsor of SRCCON?** [Get in touch with OpenNews Executive Director Erika Owens today.](mailto:erika@opennews.org)
+Interested in having your company or organization become a sponsor of SRCCON? [Get in touch with OpenNews Co-Director Ryan Pitts today.](mailto:ryan@opennews.org)
