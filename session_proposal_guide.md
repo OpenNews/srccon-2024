@@ -30,8 +30,8 @@ We avoid traditional lectures and classroom-style trainings, and you might notic
 
 #### Key dates
 
-* **Friday, April 5**: Deadline to submit session proposals and stipend applications using our [call for participation form](/participation/form/)
-* **By Wednesday, April 24**: Facilitators and stipend applicants will be notified
+* **April 5**: Deadline to submit session proposals and stipend applications using our [call for participation form](/participation/form/)
+* **By April 24**: We'll send out notifications about session proposals and stipend applications
 * **August 15-16**: SRCCON 2024, in Minneapolis!
 
 
@@ -46,9 +46,9 @@ Our goal is to build a conference program with a mix of:
 
 Sessions are 75 minutes long—plenty of time to dig into even deep topics, but it goes faster than you think! In a session proposal, we look for:
 
-* A topic that you can realistically cover in a little more than an hour. (Narrowing down to a specific problem or idea is almost always the right choice. Asking a question can work really well, too.)
-* A clear, inviting description that explains how attendees will spend their time. (This doesn't have to be a literal outline! But help us see the agenda you have in mind.)
-* A clear outcome. (What can people expect to leave having done or having learned?)
+* **A topic that you can realistically cover in a little more than an hour.** (Narrowing down to a specific problem or idea is almost always the right choice. Asking a question can work really well, too.)
+* **A clear, inviting description that explains how attendees will spend their time.** (This doesn't have to be a literal outline! But help us see the agenda you have in mind.)
+* **A clear outcome.** (What can people expect to leave having done or having learned?)
 
 Effective SRCCON facilitation is about effort and preparation more than expertise. You don't have to have all the answers, just a plan to help people search for them together. Other things that make a proposal really stand out:
 

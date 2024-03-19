@@ -6,7 +6,7 @@ title: Call for Participation
 
 # Call for participation
 
-We can't wait to hear how you'd like to participate at {{ page.event_name }}! If you want to attend, [propose a session](/sessions/proposal-guide/), or [take part in some other way](/attendees), this one form is where to let us know. The deadline to propose a session or apply for a scholarship is April 5, and we'll keep this form open for attendees as long as space remains available.
+We can't wait to hear how you'd like to participate at {{ page.event_name }}! If you want to attend, [propose a session](/sessions/proposal-guide/), or [take part in some other way](/attendees), this one form is where to let us know. The deadline to propose a session or apply for a scholarship is April 5, and then we'll keep this form open for attendees as long as space remains available.
 
 After we review your form, we will let you know whether you are invited to attend or facilitate. If so, we will send a link so you can purchase a ticket to {{ page.event_name }}, with <a href="/attendees/#tickets">prices starting at $275 plus fees</a>.
 

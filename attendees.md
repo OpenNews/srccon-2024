@@ -8,7 +8,7 @@ title: Attendee guide
 
 # Participation at SRCCON
 
-SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open till April 5 for session proposals, and it's where you tell us about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. 
+SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open until April 5 for session proposals, and it's where you tell us about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. 
 
 We keep the size of SRCCON intentionally rather small at 300 people, and we've experimented with different ways to allocate tickets. We've landed on this approach—one single form to gather session ideas, applications to attend, and scholarship requests—as the easiest experience for potential attendees and a streamlined process for us in organizing the conference, too.
 
@@ -24,7 +24,7 @@ In 2019, [we began experimenting with a tiered ticket-pricing system](https://op
 
 Here are the tiers (plus Eventbrite ticketing fees):
 
-* **$275:** This was our ticket price last year and remains the base price for people who are paying their own way, from small news organizations with fewer than 50 people, or nonprofits with budgets $750,000 or less.
+* **$275:** This is the base price designed for people who are paying their own way, from small news organizations with fewer than 50 people, or nonprofits with budgets $750,000 or less.
 * **$395:** A new ticket price for people from medium-sized news organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar-sized organizations.
 * **$695:** This ticket tier reflects very nearly the actual cost for each attendee of SRCCON and is for people from large news organizations with more than 250 employees, nonprofits with budgets over $2 million, and other organizations that provide full professional-development budgets for employees.
 
@@ -52,6 +52,6 @@ We think SRCCON is best when there's a mix of folks new to SRCCON and veterans o
 
 ## Financial & family assistance
 
-We offered a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON, just let us know on the [call for participation form](/participation/form/).
+We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON, just let us know on the [call for participation form](/participation/form/).
 
 These scholarships can also provide support for childcare or other caregiving needs and costs. In the past during in-person events there wasn't sufficient usage of the free childcare we organized, so we're not planning to offer it this year. But we're very interested to explore other ways to make the event more accessible to parents and other caregivers. [Please email us](srccon@opennews.org) if you have any questions or ideas.

@@ -15,11 +15,11 @@ Our [call for participation form](/participation/form/) includes questions to te
 
 ## Key dates for your calendar
 
-* **March 20**: call for participation opens
-* **April 5**: call for participation for sessions and scholarships closes
-* **April 24**: we'll send out notifications about session proposals and scholarship applications
-* **After April 24**: we'll review more participation forms for attendees only, on a rolling basis until the conference
-* **August 15-16**: SRCCON takes place in Minneapolis, MN
+* **March 20**: Call for participation opens
+* **April 5**: Deadline to submit session proposals and stipend applications
+* **By April 24**: We'll send out notifications about session proposals and stipend applications
+* **After April 24**: We'll review more participation forms for attendees only, on a rolling basis until the conference
+* **August 15-16**: SRCCON 2024, in Minneapolis!
 
 Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2024, our call for participation is how to let us know! As space remains available, we will keep the call for participation open for tickets after session proposal deadline, but applying by that date is your best chance to attend.
 
@@ -51,13 +51,13 @@ Our participants represent organizations ranging from massive to tiny, and come 
 
 ### How much does it cost?
 
-[Ticket prices start at $275](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as travel or caregiving $500](/scholarships).
+[Ticket prices start at $275](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $500 travel or caregiving stipends](/scholarships).
 
 SRCCON events don't have open sale dates or lotteries. If you want to come to {{ page.event_name }}, our [call for participation](/participation/form) is how to let us know.
 
 ### What's next
 
-You can stay in touch by following [@SRCCON](https://twitter.com/srccon), and get information about tickets, our call for participation, and other event news through [the OpenNews notification list](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc). If there's anything else you'd like to know about our events, [we'd love to hear from you](mailto:srccon@opennews.org).
+[The OpenNews newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) is a great way to stay up-to-date on tickets, our call for participation, and other event information. You can also keep in touch with us on social media: We're on [Twitter](https://twitter.com/srccon), [BlueSky](https://bsky.app/profile/opennews.bsky.social), and [LinkedIn](https://www.linkedin.com/company/opennews/). If there's anything else you'd like to know about our events, [we'd love to hear from you](mailto:srccon@opennews.org).
 
 ### About us
 
