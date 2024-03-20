@@ -31,7 +31,7 @@ Questions to help you apply for scholarship support are included in the call for
 
 ## When notifications go out
 
-All scholarship applicants will hear from us when we send out notifications as part of the call for participation.
+Notifications for scholarships will go out alongside other notifications as part of the call for participation. You'll hear from us by April 24.
 
 ## What happens after the event
 
