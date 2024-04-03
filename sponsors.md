@@ -41,7 +41,7 @@ Each sponsorship includes at least 1 free ticket and different types of visibili
 OpenNews has been hosting SRCCON annually since 2014, and added a series of smaller, topical conferences starting in 2017. At SRCCON events, participants come first so they can focus on collaborating on the work at hand. Over this time SRCCON has:
 
 * Welcomed more than 3,000 participants, with a healthy mix of new and returning attendees each time.
-* Hosted more than 700 interactive, collaborative sessions on topics ranging from archiving and algorithms to management and self-care.
+* Hosted more than 750 interactive, collaborative sessions on topics ranging from archiving and algorithms to management and self-care.
 * Provided scholarship support to help hundreds of participants and facilitators attend these events.
 * Operated with inclusion and accessibility as core design features, providing live transcription, childcare, tasty food and drink for all dietary needs, and a schedule with space to refresh and connect. This year, we're planning to offer digital accessibility across international timezones, and intentional programming for how attendees can digitally connect based on their needs.
 * Created a code of conduct and incident response plan that supports attendees and has influenced the journalism community, including ONA and IRE conferences.
