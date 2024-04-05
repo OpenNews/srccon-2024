@@ -50,6 +50,6 @@ We think SRCCON is best when there's a mix of folks new to SRCCON and veterans o
 
 ## Financial & family assistance
 
-We offered a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. The deadline to apply for a scholarship has passed, but free scholarship tickets will be availble on the ticket registration page.
+We offered a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. The deadline to apply for a scholarship has passed, but free scholarship tickets will be available on the ticket registration page.
 
 Scholarships can also provide support for childcare or other caregiving needs and costs. In the past during in-person events there wasn't sufficient usage of the free childcare we organized, so we're not planning to offer it this year. But we're very interested to explore other ways to make the event more accessible to parents and other caregivers. [Please email us](srccon@opennews.org) if you have any questions or ideas.
