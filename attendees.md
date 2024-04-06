@@ -4,17 +4,15 @@ permalink: /attendees/
 title: Attendee guide
 ---
 
-*There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. <a href="/participation/form/">Our call for participation form</a> is open through April 5 to pitch a session, apply for a scholarship, or tell us how else you&rsquo;d like to take part.*
+*There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. <a href="/participation/form/">Our call for participation form</a> is open to tell us how you&rsquo;d like to take part.*
 
 # Participation at SRCCON
 
-SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open until April 5 for session proposals, and it's where you tell us about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. 
+SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open to tell us what you'd like to bring to the event and what you hope to take back home with you. The deadline to propose a session has already passed, and we'll keep this form open for attendees as long as space remains available.
 
 We keep the size of SRCCON intentionally rather small at 300 people, and we've experimented with different ways to allocate tickets. We've landed on this approach—one single form to gather session ideas, applications to attend, and scholarship requests—as the easiest experience for potential attendees and a streamlined process for us in organizing the conference, too.
 
 The small conference size means that we have to be intentional about equitably distributing tickets and ensuring that there's a mix of perspectives and skills at SRCCON. Our [call for participation form](/participation/form/) will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we're able to create a schedule and audience that reflects the dynamic interests and needs of this community.
-
-The form is open from March 20-April 5 for session proposals and scholarship applications, and we'll keep the form open for attendees as long as we can. After that, we will review entries and notify everyone by April 24. If invited to attend, you will have the chance to purchase a ticket, with prices starting at $275 plus fees.
 
 <span id="tickets"></span>
 
@@ -44,7 +42,7 @@ Our [call for participation form](/participation/form) has a few questions for y
 
 ## Facilitating sessions
 
-At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—consider becoming a facilitator this year by [learning more about sessions](/sessions/proposal-guide). You will be able to tell us all about your session idea on the [call for participation form](/participation/form). 
+At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—[learn more about how facilitation works at SRCCON](/sessions/proposal-guide). The deadline to propose a session has now passed, but if you might be interested in helping out with a session or coaching facilitators, there's a spot [in the form](/participation/form) to let us know.
 
 ## Welcome, first-timers
 
@@ -52,6 +50,6 @@ We think SRCCON is best when there's a mix of folks new to SRCCON and veterans o
 
 ## Financial & family assistance
 
-We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON, just let us know on the [call for participation form](/participation/form/).
+We offered a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. The deadline to apply for a scholarship has passed, but free scholarship tickets will be available on the ticket registration page.
 
-These scholarships can also provide support for childcare or other caregiving needs and costs. In the past during in-person events there wasn't sufficient usage of the free childcare we organized, so we're not planning to offer it this year. But we're very interested to explore other ways to make the event more accessible to parents and other caregivers. [Please email us](srccon@opennews.org) if you have any questions or ideas.
+Scholarships can also provide support for childcare or other caregiving needs and costs. In the past during in-person events there wasn't sufficient usage of the free childcare we organized, so we're not planning to offer it this year. But we're very interested to explore other ways to make the event more accessible to parents and other caregivers. [Please email us](srccon@opennews.org) if you have any questions or ideas.
