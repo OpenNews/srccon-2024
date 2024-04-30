@@ -7,15 +7,16 @@ permalink: /
 
 # Join us at SRCCON 2024!
 
-**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $275 plus fees](/attendees/#tickets).
+**Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $275 plus fees](/attendees/#tickets).
 
-Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
+**Our program:** We just published [our initial list of accepted sessions](/program/), so take a look at what we have planned for this year!
+
+There's still plenty of room to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
 
 ## Key dates for your calendar
 
-* **April 5**: Deadline to submit session proposals and stipend applications
-* **By April 24**: We'll send out notifications about session proposals and stipend applications
-* **After April 24**: We'll review more participation forms for attendees only, on a rolling basis until the conference
+* **By April 24**: Anyone who proposed a session or applied for a scholarship by April 5 has been notified
+* **Now through August**: We'll review more participation forms for attendees only, on a rolling basis until the conference
 * **August 15-16**: SRCCON 2024, in Minneapolis!
 
 Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2024, our call for participation is how to let us know!
@@ -24,7 +25,13 @@ Curious about how it all works? Learn more about [being a participant at SRCCON]
 
 On August 15-16 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). When tickets go on sale, we'll also open up a discounted block of rooms for participants at a nearby hotel.
 
-We're excited to be back in Minneapolis! SRCCON 2024 will be in-person, and we are still developing our COVID safety policy for this event. It will be published when ticket sales open. We're gathering examples from other conferences such as [PyCon](https://us.pycon.org/2024/about/health-safety-guidelines/) and [NICAR](https://www.ire.org/training/conferences/nicar-2024/nicar24-faq/), and considering the specific needs and values of the OpenNews community as well. If you have any input, concerns, or needs, [reach out to us](mailto:srccon@opennews.org).
+Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Friday morning.
+
+We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $149 per night. The Graduate Hotel is located right next to the SRCCON venue and is connected by a tunnel in case of bad weather. The conference rate will be available until July 24 or all rooms are booked. To get the conference rate, please call 612-379-8888 and ask for the SRCCON ("Source-con")/OpenNews rate, or use our [dedicated booking link](https://www.graduatehotels.com/minneapolis/#/booking/step-1?group=9560341&arrive=08%2F14%2F2024&depart=08%2F17%2F2024).
+
+#### COVID safety guidelines
+
+We're excited to be back in Minneapolis! SRCCON 2024 will be in-person, and we are still developing our COVID safety policy for this event. We're gathering examples from other conferences such as [PyCon](https://us.pycon.org/2024/about/health-safety-guidelines/) and [NICAR](https://www.ire.org/training/conferences/nicar-2024/nicar24-faq/), and considering the specific needs and values of the OpenNews community as well. If you have any input, concerns, or needs, [reach out to us](mailto:srccon@opennews.org).
 
 ### What you can expect
 
