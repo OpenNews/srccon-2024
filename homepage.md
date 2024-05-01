@@ -23,9 +23,7 @@ Curious about how it all works? Learn more about [being a participant at SRCCON]
 
 ### When & where
 
-On August 15-16 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). When tickets go on sale, we'll also open up a discounted block of rooms for participants at a nearby hotel.
-
-Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Friday morning.
+On August 15-16 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Saturday morning.
 
 We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $149 per night. The Graduate Hotel is located right next to the SRCCON venue and is connected by a tunnel in case of bad weather. The conference rate will be available until July 24 or all rooms are booked. To get the conference rate, please call 612-379-8888 and ask for the SRCCON ("Source-con")/OpenNews rate, or use our [dedicated booking link](https://www.graduatehotels.com/minneapolis/#/booking/step-1?group=9560341&arrive=08%2F14%2F2024&depart=08%2F17%2F2024).
 
@@ -55,7 +53,7 @@ Our participants represent organizations ranging from massive to tiny, and come 
 
 ### How much does it cost?
 
-[Ticket prices start at $275](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $500 travel or caregiving stipends](/scholarships).
+[Ticket prices start at $275](/attendees/#tickets), plus ticketing fees. We also offer a limited number of need-based, [free scholarship tickets as well as $500 travel or caregiving stipends](/scholarships).
 
 SRCCON events don't have open sale dates or lotteries. If you want to come to {{ page.event_name }}, our [call for participation](/participation/form) is how to let us know.
 
