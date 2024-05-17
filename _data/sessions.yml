@@ -1,5 +1,11 @@
 [
   {
+    "id": "beyond-survival-journalism-abundance",
+    "title": "Beyond survival: Conceptions of brave journalism from a place of abundance in an industry of scarcity",
+    "facilitators": "Camille Fassett, Elizabeth Kim",
+    "description": "Engage in a conversation about what it would look like to do brave and bold journalism from a place of abundance. In industries with an abundance of capital of all kinds, these resources and investments often drive experimentation, competition, and rapid growth and exchange of ideas. In this session, we will talk about whether that kind of abundance context has ever been true for journalism. We’ll open up a conversation about what the most significant constraints are on our ability to innovate, experiment, and dream in the newsroom, whether it’s a lack of financial resources and economic stability, editorial support, or emotional capacity, health, and support in other parts of life.\n\nSecondly, we’ll discuss what possibilities would open up if any of these variables were changed. What stories would we pursue? What newsroom structures or models of journalism would we want to try? Finally, we’ll close out the conversation with a discussion about how we can pull ourselves towards the journalism industry we want to see. We may not be able to personally change the structural external realities of the challenges of the journalism industry, but we can approach our work from a mindset of abundance, openness and curiosity."
+  },
+  {
     "id": "engaging-equipping-community",
     "title": "Beyond the letter to the editor: Engaging and equipping community in your newsgathering process",
     "facilitators": "India Daniels, Grace Del Vecchio, Natalie Frazier",
@@ -97,9 +103,9 @@
   },
   {
     "id": "help-wanted-data-team",
-    "title": "Help Wanted: A data team at your fingertips",
+    "title": "Help Wanted: Developing support systems for local data journalism",
     "facilitators": "Pam Dempsey, Joe Germuska, Cheryl Phillips",
-    "description": "The Data-Driven Reporting Project tested a pilot project to start a Rolodex of contacts for newsrooms/freelancers to use for project-based work: a way to supplement their newsrooms on an as-needed basis.\n\n\n\nCould we, as a community, develop a sustained support network for data journalists that goes beyond posting questions in Slack or on social media? We can start the conversation by sharing challenges we faced, but mostly we want to work with you to workshop ideas for the future."
+    "description": "Data journalism is a critical component of investigative and accountability journalism, but many newsrooms, especially smaller ones, face challenges in developing their capacity. Big Local News at Stanford and the Data-Driven Reporting Project at Northwestern have both been working on developing that capacity for a few years. While we’ve had successes, we’ve also started to develop some theories about what changes could really amplify the work. In this session, the presenters will share their current thinking and ask participants to collectively help develop the theories further. We hope to end the session with actionable, fundable ideas which the facilitators or other organizations might work on putting into practice to better serve the development of data-driven journalism, especially in smaller newsrooms."
   },
   {
     "id": "newsroom-product-planning-tool",
@@ -220,5 +226,11 @@
     "title": "What did we do with all that OpenAI money and who is it helping",
     "facilitators": "Dorrine Mendoza, Trei Brundrett",
     "description": "AJP embarked on this journey with more questions than answers. Could small news organizations deploy AI to increase revenue? Would communities trust the organizations who deployed AI chat bots or other public-facing AI technologies? How hard would it really be to deploy new AI products in newsrooms without product resources?\n\nThe grantees and staff will answer these and other questions, including the most important: How are we different now than we were a year ago, and is the local news field better off?"
+  },
+  {
+    "id": "when-ai-goes-wrong",
+    "title": "When AI Goes Wrong: How to handle it and what to do",
+    "facilitators": "Ryan Restivo, Nikita Roy",
+    "description": "As we push the boundaries of what's possible with AI in the newsroom, the path is marked by experimentation, innovation, and the inevitable setback. This workshop acknowledges the reality of AI development: failures are not just possible, they are a valuable part of the learning process. Through a series of discussion prompts and case studies we will delve into the complexities of AI missteps. Our goal is to equip participants with the knowledge that they can lead their initiatives with confidence and strategic thought even when they do not go as planned."
   }
 ]
