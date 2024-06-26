@@ -1,0 +1,39 @@
+<html>
+<head>
+<script src="moment.min.js"></script>
+<script src="moment-timezone.min.js"></script>
+</head>
+<body>
+
+
+<ul>
+    <li><span class="localize">3:30 PM ET</span></li>
+    <li><span class="localize">5 PM ET</span></li>
+    <li><span class="localize">1 PM ET</span></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+<script>
+localizeTimes = function() {
+    var timesToLocalize = document.querySelectorAll(".localize");
+    var tzName = moment.tz.guess();
+    
+    for (i = 0; i < timesToLocalize.length; ++i) {
+        val = timesToLocalize[i].innerText;
+        valET = moment.tz(val, "h:m a", "America/New_York");
+        valLocal = valET.local();
+        displayLocal = moment.tz(valLocal, tzName).format("h:mm A zz");
+        displayLocal = displayLocal.replace(":00","");
+        timesToLocalize[i].innerText = displayLocal;
+    }
+    return;
+};
+
+localizeTimes();
+</script>
+
+</body>
+</html>
