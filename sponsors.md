@@ -12,7 +12,7 @@ Interested in having your company or organization get involved? [Find out more a
 <div class="page-divider"><span>Accessibility & scholarships sponsors</span></div>
 <div class="sponsor-block">
     <a href="https://knightfoundation.org/"><img src="/media/img/partners/knight_foundation.png" alt="The Knight Foundation"></a>
-    <!--<p></p>-->
+    <p>We are social investors who support a more effective democracy by funding free expression and journalism, arts and culture in community, research in the areas of media and democracy, and the success of American cities and towns where the Knight brothers once published newspapers.</p>
 </div>
 
 <div class="sponsor-block">

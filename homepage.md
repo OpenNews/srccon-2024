@@ -15,7 +15,6 @@ There's still plenty of room to get involved: We'll keep our [call for participa
 
 ## Key dates for your calendar
 
-* **By April 24**: Anyone who proposed a session or applied for a scholarship by April 5 has been notified
 * **Now through August**: We'll review more participation forms for attendees only, on a rolling basis until the conference
 * **August 15-16**: SRCCON 2024, in Minneapolis!
 
@@ -29,7 +28,9 @@ We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://ww
 
 #### COVID safety guidelines
 
-We're excited to be back in Minneapolis! SRCCON 2024 will be in-person, and we are still developing our COVID safety policy for this event. We're gathering examples from other conferences such as [PyCon](https://us.pycon.org/2024/about/health-safety-guidelines/) and [NICAR](https://www.ire.org/training/conferences/nicar-2024/nicar24-faq/), and considering the specific needs and values of the OpenNews community as well. If you have any input, concerns, or needs, [reach out to us](mailto:srccon@opennews.org).
+We want everyone who comes to SRCCON to feel safe and cared for. We know that encouraging precautions like testing and masking make it possible for more members of our commuity to attend. Our team has been keeping an eye on journalism events since we last convened in October, and we're seeing that it's possible to come together in a group where some people mask and others do not as long as we're all doing our best to look out for others.
+
+We will not require masking at SRCCON 2024, but staff members will be masking, and we strongly encourage participants to wear masks, particularly in session spaces where people are gathering more closely together. We will have ample masks available, and we invite you to bring your preferred N95, KN95, or similar masks as well. We ask you to test before you come, and ask you to stay home if you're not feeling well. We also strongly encourage all participants to be up to date on their vaccinations. If you have any questions or need further information, please reach out to us.
 
 ### What you can expect
 
