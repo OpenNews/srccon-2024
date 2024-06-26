@@ -5,17 +5,19 @@ permalink: /
 
 ### Let's build SRCCON together
 
-# Join us at SRCCON 2024!
+# [Our schedule for SRCCON 2024 is here!](/schedule)
 
-**Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $275 plus fees](/attendees/#tickets).
+Check out the amazing sessions this community has planned for each day. And stay tuned, because we still have an evening program with social sessions and activities coming soon!
 
-**Our program:** We just published [our initial list of accepted sessions](/program/), so take a look at what we have planned for this year!
+↪ [See the SRCCON schedule](/schedule) 🎉
 
-There's still plenty of room to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
+**How to get involved:** [Our call for participation form](/participation/form) is where to let us know you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $275 plus fees](/attendees/#tickets).
+
+There's still plenty of room for you! We'll keep our [participation form](/participation/form) open for attendees as long as we have space.
 
 ## Key dates for your calendar
 
-* **Now through August**: We'll review more participation forms for attendees only, on a rolling basis until the conference
+* **On a rolling basis**: We'll continue to review participation forms for attendees
 * **August 15-16**: SRCCON 2024, in Minneapolis!
 
 Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2024, our call for participation is how to let us know!
