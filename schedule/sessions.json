@@ -482,7 +482,7 @@
   {
     "id": "self-hosted-maps",
     "title": "Self-hosted maps: An ecological approach",
-    "description": "Self-hosting interactive maps is now possible, even for small newsrooms, but it requires developers to understand how the stack fits together and what problem each piece solves. This approach starts from the premise that solutions aren't stable and will help participants approach an evolving landscape in a way that welcomes novelty.",
+    "description": "Self-hosting interactive maps is now possible, even for small newsrooms, but it requires developers to understand how the stack fits together and what problem each piece solves. This approach starts from the premise that solutions aren't stable and will help participants approach an evolving landscape in a way that welcomes novelty.\n\nHere's what to bring into this session:\n\n* a laptop\n* a GitHub account\n* (and if you want!) a fun dataset to map\n\nI'll bring a Minnesota-related dataset that we can work with, too. We'll start with a working-but-incomplete map in a codespace and start tinkering: add a data layer, change the theme, remove layers, etc. Let's plan to pair up, work together, and knock out some quick wins!",
     "facilitators": "Chris Amico",
     "time": "9:30-10:45am",
     "day": "Friday",

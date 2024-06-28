@@ -362,6 +362,9 @@ h3.slider-control {
     position: absolute;
     bottom: 1.5rem;
 }
+.session-list-item p.session-facilitators {
+    font-size: 1.5rem;    
+}
 
 .all-sessions .session-list-item {
     padding: 1rem 4rem 1.5rem 0;
