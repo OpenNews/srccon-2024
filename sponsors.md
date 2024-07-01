@@ -21,7 +21,7 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 
-<div class="page-divider"><span>Meal & break sponsors</span></div>
+<div class="page-divider"><span>Meal sponsors</span></div>
 <div class="sponsor-block secondary">
     <a href="https://alley.co/"><img src="/media/img/partners/alley.png" alt="Alley Interactive"></a>
 </div>
@@ -35,9 +35,19 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 
+<div class="page-divider"><span>Break sponsor</span></div>
+<div class="sponsor-block secondary">
+    <a href="https://www.theajp.org/"><img src="/media/img/partners/ajp.png" alt="American Journalism Project"></a>
+</div>
+
+
 <div class="page-divider"><span>Event sponsors</span></div>
 <div class="sponsor-block secondary">
     <a href="http://www.democracyfund.org"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
+</div>
+
+<div class="sponsor-block secondary">
+    <a href="https://jsk.stanford.edu/"><img src="/media/img/partners/jsk.png" alt="JSK Fellowships"></a>
 </div>
 
 
