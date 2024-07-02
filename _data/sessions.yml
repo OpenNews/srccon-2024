@@ -14,7 +14,7 @@
   {
     "id": "bridging-barriers-fundraising",
     "title": "Bridging barriers: How newsrooms and fundraising teams can collaborate to fund impactful journalism",
-    "facilitators": "Joseph Lichterman",
+    "facilitators": "Joseph Lichterman, Laura Lindsay, Alicia Pederson, Jazzmine Jackson",
     "description": "Philanthropic interest in journalism is at an all-time high as new funders enter the space and more than $500 million in funding has been committed to local journalism through Press Forward. But in many news organizations there is a disconnect — and even distrust — between fundraising and newsroom staffs over fears of funder influence, concerns about editorial independence, and more.\n\nHowever, it doesn't need to be that way. In news organizations around the United States, fundraisers and journalists/technologists are collaborating and building a culture of philanthropy that supports their shared mission of great journalism. This session will offer case studies of how news organizations have built successful fundraising cultures, and participants will go through role-playing and idea-mapping exercises to identify how they can build a culture that bridges revenue/newsroom divides and leave with concrete steps they can take to change the culture of their organization. The principles in this session will be relevant to news organizations of all sizes and of all tax statuses."
   },
   {
@@ -81,7 +81,7 @@
     "id": "ethnographic-journalism",
     "title": "Ethnographic Journalism to solve your reporting challenges: Why you’re already doing it, and how to do more of it.",
     "facilitators": "Emily Kennedy, Adam Gamwell",
-    "description": "The challenges facing individual journalists are mounting. Anthropology’s ethnographic methods can help journalists unearth stories that matter to communities and bring a different dimension to the way we practice journalism.\n\nEthnography is the study of culture. “Ethno” from Greek meaning culture, and “graphy” meaning writing. Ethnography offers a set of tools and applied approaches that align with the reporter’s modern pursuits of respectful and impactful reporting.\n\nIn this practical, hands-on workshop, participants will work with Emily Kennedy, founder of AnthroJourno.org, and Adam Gamwell, PhD, anthropologist, editor of Anthropology News, and host of the This Anthro Life podcast, to explore how to apply ethnographic methods to specific journalism challenges such as gaining and maintaining trust of the public, community reporting, and finding sources.\n\nProposed Agenda:\n5 minutes: Introductions\n15 minutes: Overview of the history of ethnographic journalism, ethnographic methods, and how they can help journalists.\n10 minutes: Demonstrate ethnographic reporting method for finding new stories (what it is, how it works, and outcomes)\n10 minutes: Demonstrate ethnographic reporting method for finding sources (what it is, how it works, and outcomes)\n25 minutes: Workshop breakout: Participants (as individuals or groups) practice applying ethnographic methods to their reporting project, while groups (or individuals) come to discuss/receive feedback with Emily & Adam (one group at a time, 5 mins each group).\n10 minutes: Reflection and closing"
+    "description": "Anthropology’s ethnographic methods can tackle the big challenges journalists face today. These tools and approaches align with journalism's modern, respectful, and impactful reporting. In fact, many major media outlets already use ethnographic methods without realizing it.\n\nBring your story idea or journalistic challenge to this hands-on workshop where Emily Kennedy (founder of AnthroJourno.org) and Adam Gamwell, PhD (anthropologist, editor of Anthropology News, and host of This Anthro Life podcast) will be your guides in applying ethnographic methods to enhance your reporting.\n\nIt's sure to be an eye-opening afternoon exploring a new dimension in journalism. Join us!"
   },
   {
     "id": "burnout",
@@ -177,7 +177,7 @@
     "id": "self-hosted-maps",
     "title": "Self-hosted maps: An ecological approach",
     "facilitators": "Chris Amico",
-    "description": "Self-hosting interactive maps is now possible, even for small newsrooms, but it requires developers to understand how the stack fits together and what problem each piece solves. This approach starts from the premise that solutions aren't stable and will help participants approach an evolving landscape in a way that welcomes novelty."
+    "description": "Self-hosting interactive maps is now possible, even for small newsrooms, but it requires developers to understand how the stack fits together and what problem each piece solves. This approach starts from the premise that solutions aren't stable and will help participants approach an evolving landscape in a way that welcomes novelty.\n\nHere's what to bring into this session:\n\n* a laptop\n* a GitHub account\n* (and if you want!) a fun dataset to map\n\nI'll bring a Minnesota-related dataset that we can work with, too. We'll start with a working-but-incomplete map in a codespace and start tinkering: add a data layer, change the theme, remove layers, etc. Let's plan to pair up, work together, and knock out some quick wins!"
   },
   {
     "id": "srcconify-retreat",

@@ -7,6 +7,7 @@ function Schedule(CONFIG) {
         // TODO: make these configurable, passed in as options
         // when you create a Schedule() instance on the page
         schedule.pathToSessionsJson = CONFIG.pathToSessionsJson;
+        schedule.showSessionRoomOnIndex = CONFIG.showSessionRoomOnIndex;
         schedule.$container = $('#schedule');
         schedule.$tabs = $('<ul>').appendTo('#schedule-controls');
         schedule.$pageLinks = $('#page-links');
@@ -221,7 +222,7 @@ function Schedule(CONFIG) {
             //sessionClass: sessionItem.everyone || sessionItem.break ? 'everyone' : sessionItem.length == '75 minutes' ? 'length-short' : 'length-alt',
             sessionClass: sessionItem.everyone ? 'everyone' : sessionItem.break ? 'break' : sessionItem.social ? 'social' : sessionItem.talk ? 'talk' : 'session',
             showDay: false,
-            showFacilitators: false,
+            showFacilitators: schedule.showSessionRoomOnIndex,
             smartypants: schedule.smartypants
         }
         // some templates need to show expanded data
