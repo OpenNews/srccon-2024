@@ -155,11 +155,11 @@ In your sessions and outside them, the SRCCON staff will fully support you in ma
 
 #### Programs from previous SRCCONs
 
-* [SRCCON:2023](https://2023.srccon.org/schedule/)
+* [SRCCON 2023](https://2023.srccon.org/schedule/)
 * [SRCCON:CARE 2022](https://srccon.org/srccon-care-2022/program/)
-* [SRCCON:2022](https://2022.srccon.org/schedule/)
-* [SRCCON:2021](https://2021.srccon.org/schedule/)
-* [SRCCON:2020](https://2020.srccon.org/schedule/)
+* [SRCCON 2022](https://2022.srccon.org/schedule/)
+* [SRCCON 2021](https://2021.srccon.org/schedule/)
+* [SRCCON 2020](https://2020.srccon.org/schedule/)
 * [SRCCON:PRODUCT 2020](https://product.srccon.org/schedule/)
 * [SRCCON:LEAD 2019](https://lead.srccon.org/schedule/)
 * [SRCCON 2019](https://2019.srccon.org/schedule/)
