@@ -20,15 +20,15 @@ There's still plenty of room for you! We'll keep our [participation form](/parti
 * **On a rolling basis**: We'll continue to review participation forms for attendees
 * **August 15-16**: SRCCON 2024, in Minneapolis!
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2024, our call for participation is how to let us know!
+Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees).
 
 ### When & where
 
-On August 15-16 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Saturday morning.
+On August 15-16 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). 
 
-#### Conference hotel
+**If you’re figuring out travel plans:** We'll get started at 9am on Thursday and close by 6pm Friday. Most participants arrive Wednesday afternoon and leave Saturday morning.
 
-We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $149 per night. The Graduate Hotel is located right next to the SRCCON venue and is connected by a tunnel in case of bad weather. The conference rate will be available until July 24 or all rooms are booked. To get the conference rate, please call 612-379-8888 and ask for the SRCCON ("Source-con")/OpenNews rate, or use our [dedicated booking link](https://www.graduatehotels.com/minneapolis/#/booking/step-1?group=9560341&arrive=08%2F14%2F2024&depart=08%2F17%2F2024).
+Our conference hotel, [the Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/), is located right next to our venue. You can still book a room there at the regular rate, or check out these [other hotel options](/attendees#lodging).
 
 #### COVID safety guidelines
 
