@@ -50,6 +50,10 @@ Interested in having your company or organization get involved? [Find out more a
     <a href="https://jsk.stanford.edu/"><img src="/media/img/partners/jsk.png" alt="JSK Fellowships"></a>
 </div>
 
+<div class="sponsor-block secondary">
+    <a href="https://www.mcknight.org/"><img src="/media/img/partners/mcknight.png" alt="McKnight Foundation"></a>
+</div>
+
 
 <div class="page-divider"><span>Scholarship sponsor - Early career</span></div>
 <div class="sponsor-block secondary">

@@ -14,6 +14,56 @@ We keep the size of SRCCON intentionally rather small at 300 people, and we've e
 
 The small conference size means that we have to be intentional about equitably distributing tickets and ensuring that there's a mix of perspectives and skills at SRCCON. Our [call for participation form](/participation/form/) will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we're able to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
+<span id="lodging"></span>
+
+## Lodging
+
+Our conference hotel, [the Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/), is located right next to our venue. The SRCCON block has sold out, but you can still book there at the regular rate!
+
+It's also fairly easy to get around Minneapolis via public transit (the light rail Green Line stops about a 5-minute walk from McNamara), walking, bikeshare, or rideshare. Here are some other hotels not far from the [conference venue](https://maps.app.goo.gl/Di78fdxszyKgr9qw9):
+	
+**[Days Hotel](https://maps.app.goo.gl/igXJNQTMzQBX2LsG7)**  
+.3 miles away  
+2407 University Ave SE  
+Minneapolis, MN 55414  
+(612) 623-3999
+
+**[Hilton Garden Inn Minneapolis University Area](https://maps.app.goo.gl/qU4rLtudeU5gjucs7)**  
+.5 miles away  
+511 Huron Boulevard SE  
+Minneapolis, MN, 55414  
+(612) 504-3000
+
+**[Home2 Suites by Hilton Minneapolis University Area](https://maps.app.goo.gl/Nvzkzin8Ey7ewVnZ9)**  
+.6 miles away  
+2808 University Ave SE  
+Minneapolis, MN 55414  
+(612) 473-4662
+
+**[University Inn](https://maps.app.goo.gl/oigXiY4miHWnBKQaA)**  
+1 mile away  
+925 4th Street SE  
+Minneapolis, MN 55414  
+(612) 746-1300
+
+**[Courtyard Minneapolis Downtown](https://maps.app.goo.gl/jDwsfLhfmKEnkzGj6)**  
+1.5 miles away  
+1500 S Washington Ave  
+Minneapolis, MN 55454  
+612-333-4646
+
+**[Sonder at East End](https://maps.app.goo.gl/f6rkuguZUvnAqZbA9)**  
+2.5 miles away  
+240 Chicago Ave  
+Minneapolis, MN 55415  
+(617) 300-0956
+
+**[Aloft Minneapolis Hotel](https://maps.app.goo.gl/7LcFnRN6ZdHCc6rEA)**  
+3 miles away  
+900 Washington Avenue South  
+Minneapolis, MN 55415  
+(612) 455-8400
+
 <span id="tickets"></span>
 
 ## Details about ticket prices
