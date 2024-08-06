@@ -406,8 +406,8 @@
   },
   {
     "id": "game-night",
-    "title": "Board games",
-    "description": "",
+    "title": "Game night!",
+    "description": "We'll open up a bunch of tables to play card, board, and even role-playing games together. [Here's a collaborative doc where we're coordinating games to play](https://etherpad.opennews.org/p/2024-SRCCON-social-stuff)—if you can bring any of your favorite board games, share them here, and if you see someone bringing a game you want to play, let them know you're interested!",
     "facilitators": "",
     "time": "7-8:50pm",
     "day": "Thursday",
@@ -497,7 +497,7 @@
   {
     "id": "yoga",
     "title": "Yoga",
-    "description": "",
+    "description": "Come to an all levels yoga practice with our own resident yoga teacher Emily Goligoski. Join us for breathwork, movement and meditation in this hour-long communal practice. This inclusive experience is open to all, and comfortable clothing is encouraged. Please bring a yoga mat if you have one.",
     "facilitators": "Emily Goglioski",
     "time": "7-7:50pm",
     "day": "Thursday",
@@ -556,8 +556,8 @@
   },
   {
     "id": "game-night-2",
-    "title": "Board games",
-    "description": "",
+    "title": "Game night!",
+    "description": "We'll open up a bunch of tables to play card, board, and even role-playing games together. [Here's a collaborative doc where we're coordinating games to play](https://etherpad.opennews.org/p/2024-SRCCON-social-stuff)—if you can bring any of your favorite board games, share them here, and if you see someone bringing a game you want to play, let them know you're interested!",
     "facilitators": "",
     "time": "7-8:50pm",
     "day": "Thursday",
@@ -917,7 +917,7 @@
   {
     "id": "playing-immersive",
     "title": "Playing in immersive",
-    "description": "A hands-on session exploring tools and techniques to produce immersive, non-fiction stories. AR, VR, WTFR... let's play and explore to shape the evolving drafts of storytelling.",
+    "description": "The future is ... hard to predict. But one possibility is known as Extended Reality (XR), which includes tech like Virtual and Augmented Reality. While we often think this tech is too expensive, this session will put free (or damn cheap) tools in your hands right now for you to actively shape this emerging reality.\n\nIn this session, we'll try out tech that most people don't know they have access to right now. This isn't some distant future just for nerds, these are new tools that storytellers can use now. Let's play, explore, and proactively shape how we could use immersive storytelling in our daily work.",
     "facilitators": "Robert Hernandez",
     "time": "3:45-5pm",
     "day": "Friday",
