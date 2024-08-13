@@ -10,7 +10,7 @@ SRCCON is unlike a lot of other conferences. It’s highly participatory, and it
 
 We’re regular conference attendees too, and we know there can be a TON to think about as you’re packing up for travel or taking part at an event for the first time. We hope this guide answers most of your questions, but if we’re missing one, let us know and we’ll add it!
 
-If you’re looking for lodging and other logistics info, you’ll find it right here. To learn more about getting the most out of SRCCON, please read on!
+If you're looking for lodging and other logistics info, [you'll find it right here](/attendees). To learn more about getting the most out of SRCCON, please read on!
 
 ## In this guide
 * [What's the SRCCON story?](#whats-the-srccon-story)

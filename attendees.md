@@ -4,15 +4,9 @@ permalink: /attendees/
 title: Attendee guide
 ---
 
-*There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. <a href="/participation/form/">Our call for participation form</a> is open to tell us how you&rsquo;d like to take part.*
+# Attendee logistics at SRCCON
 
-# Participation at SRCCON
-
-SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open to tell us what you'd like to bring to the event and what you hope to take back home with you. The deadline to propose a session has already passed, but we'll keep this form open for attendees as long as space remains available.
-
-We keep the size of SRCCON intentionally rather small at 300 people, and we've experimented with different ways to allocate tickets. We've landed on this approach—one single form to gather session ideas, applications to attend, and scholarship requests—as the easiest experience for potential attendees and a streamlined process for us as organizers, too.
-
-The small conference size means that we have to be intentional about equitably distributing tickets and ensuring that there's a mix of perspectives and skills at SRCCON. Our [call for participation form](/participation/form/) will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we're able to create a schedule and audience that reflects the dynamic interests and needs of this community.
+SRCCON is an intentionally small, hands-on conference, where attendees actively participate throughout the event. The whole event is organized around opportunities to learn from each other and build relationships, and [our welcome guide](/welcome) can tell you a lot more about the attendee experience. For lodging and other logistics info, please read on!
 
 <span id="lodging"></span>
 

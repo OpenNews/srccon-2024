@@ -3,32 +3,33 @@ section: homepage
 permalink: /
 ---
 
-### Let's build SRCCON together
+### Welcome to SRCCON
 
-# [Our schedule for SRCCON 2024 is here!](/schedule)
+# It's time for SRCCON 2024!
 
-Check out the amazing sessions this community has planned for each day. And stay tuned, because we still have an evening program with social sessions and activities coming soon!
+On August 15 & 16, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis. We're so excited to be with everyone for two days of amazing workshops, social sessions, and so many conversations.
 
-↪ [See the SRCCON schedule](/schedule) 🎉
+Here's what you need to know as you head into SRCCON:
 
-**How to get involved:** [Our call for participation form](/participation/form) is where to let us know you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $275 plus fees](/attendees/#tickets).
+↪ **[Check out the SRCCON schedule](/schedule)** 🎉  
+↪ [Read our attendee welcome guide](/welcome) 👋  
+↪ [More about logistics & participation](/attendees)  
 
-There's still plenty of room for you! We'll keep our [participation form](/participation/form) open for attendees as long as we have space.
+### About this year's program
 
-## Key dates for your calendar
+Here's [our official conference schedule](/schedule)—we’ll get started at 9am on Thursday and close by 6pm Friday. In between, there's so much to do:
 
-* **On a rolling basis**: We'll continue to review participation forms for attendees
-* **August 15-16**: SRCCON 2024, in Minneapolis!
+* **The SRCCON program:** Our workshops are community-built and peer-led. We'll teach each other to use tech and data better, we'll reimagine journalism culture together, and we'll find collaborators who can support us down the road.
+* **Our evening program:** After dinner on Thursday, SRCCON has casual sessions about life outside of work—hobbies, games, and other activities that let us hang out and connect over the things we love.
+* **Meals & snacks & breaks:** Our program includes lunch both days and dinner on Thursday, plus plenty of snacks and drinks and long breaks so you can keep chatting.
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees).
+#### More things to do
 
-### When & where
+SRCCON attendees love to bring games, tea, and other things to share, plus plan local activities together. Jump in here:
 
-On August 15-16 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). 
+* **[SRCCON 2024 Information Share!](https://etherpad.opennews.org/p/2024-SRCCON-social-stuff)**
 
-**If you’re figuring out travel plans:** We'll get started at 9am on Thursday and close by 6pm Friday. Most participants arrive Wednesday afternoon and leave Saturday morning.
-
-Our conference hotel, [the Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/), is located right next to our venue. You can still book a room there at the regular rate, or check out these [other hotel options](/attendees#lodging).
+If you're planning a meetup or related event while you're in Minneapolis for SRCCON, [let us know](mailto:team@opennews.org) so we can share it with everyone!
 
 #### COVID safety guidelines
 
