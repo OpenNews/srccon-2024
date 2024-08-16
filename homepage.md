@@ -3,17 +3,17 @@ section: homepage
 permalink: /
 ---
 
-### Welcome to SRCCON
+### We build this together
 
-# It's time for SRCCON 2024!
+# Thank you SRCCON 2024!
 
-On August 15 & 16, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis. We're so excited to be with everyone for two days of amazing workshops, social sessions, and so many conversations.
+On August 15-16, this community built an incredible space to imagine better futures for journalism together. Here’s what we did:
 
-Here's what you need to know as you head into SRCCON:
+* Came together for 39 peer-led workshops, teaching each other new tools and techniques for journalism; exploring code, dataviz, ethics, art, AI, and team culture; and spending time in the kind of values-first culture we want to bring into our newsrooms to make them more equitable places for everyone.
+* Led 10 more informal, social sessions during an evening program where we got to be together as people who do this work—sharing favorite hobbies and lessons in self-defense; getting out into Minneapolis for art at the Walker, a Mississippi river walk, and a WNBA game; playing games, making crafts, and chatting about all sorts of things we love.
+* Connected throughout our two days over tasty meals and nice, long snack breaks, opening up even more time to meet new people, catch up with old friends, and keep talking about the change we want to make in journalism.
 
-↪ **[Check out the SRCCON schedule](/schedule)** 🎉  
-↪ [Read our attendee welcome guide](/welcome) 👋  
-↪ [More about logistics & participation](/attendees)  
+↪ **[Check out the SRCCON 2024 schedule](/schedule)** 🎉  
 
 ### About this year's program
 
